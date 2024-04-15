@@ -27,3 +27,7 @@ main.dark .shimmer-card {
     border-radius: 4px;
     background-color: var(--shimmer-color);
 }
+
+.shimmer-card p:last-child {
+    width: 60%;
+}
